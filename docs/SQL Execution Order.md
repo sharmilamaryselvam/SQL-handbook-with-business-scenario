@@ -1,0 +1,2 @@
+# SQL Execution Order
+FROM -> JOIN -> ON -> WHERE -> GROUP BY -> HAVING -> WINDOW FUNCTIONS -> SELECT -> ORDER BY -> LIMIT

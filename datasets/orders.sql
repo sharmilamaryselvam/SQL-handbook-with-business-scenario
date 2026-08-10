@@ -1,0 +1,3 @@
+CREATE TABLE Orders(order_id INT PRIMARY KEY,customer_id INT,amount INT);
+INSERT INTO Orders VALUES
+(101,1,500),(102,1,700),(103,2,1200),(104,3,300),(105,3,900);
